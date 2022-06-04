@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Laravel, Bootstrap, MySql.
-- 🌱 I’m currently learning Python, Nodejs.
+- 🔭 I’m currently working on Prestashop, Nodejs, MySql.
+- 🌱 I’m currently learning Python, Golang, Rust, C++.
 - ⚡ Fun fact: I'm too curious.
